@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Written on 5 Jan 2018.
+*Written on 5 Jan 2018.*
 
 Classic Tic Tac Toe game written entirely in Assembly (using external printf and scanf).
 
